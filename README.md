@@ -2,7 +2,7 @@
 
 I'm a sophomore in High School, and I live in North Seattle
 
-I'm a member of FRC Team [ChainLynx, #8248](github.com/ChainLynxRobotics)
+I'm a member of FRC Team [ChainLynx, #8248](https://github.com/ChainLynxRobotics)
 
 See, at this point, I'd wish I had a cool mission statement, but I don't. I'm a human being, and I exist.
 
